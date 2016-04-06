@@ -10,8 +10,8 @@ You can create different kind of loops: Rendering loop which are updated with [r
 
 Show Don't Tell
 ===============
-* [examples/basic.html](http://jeromeetienne.github.io/threex.loop/examples/basic.html)
-\[[view source](https://github.com/jeromeetienne/threex.loop/blob/master/examples/basic.html)\] :
+* [examples/basic.html](http://WebRTCGame.github.io/threex.loop/examples/basic.html)
+\[[view source](https://github.com/WebRTCGame/threex.loop/blob/master/examples/basic.html)\] :
 It shows this feature, and that one which is coded like that.
 
 A Screenshot
